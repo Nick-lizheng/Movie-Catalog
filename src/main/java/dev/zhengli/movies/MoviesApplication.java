@@ -16,8 +16,7 @@ public class MoviesApplication {
 
 	@GetMapping("/root")
 	public String apiRoot(){
-		return "nick's here";
+		return "nick's here, just for testing";
 	}
 
 }
-//tesing
